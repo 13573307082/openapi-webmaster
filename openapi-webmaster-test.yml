@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: root
+    password: 390470265
+    url: jdbc:mysql:///openapi-admin?userUnicode=true&characterEncoding=utf8
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: org.gjt.mm.mysql.Driver
